@@ -29,6 +29,6 @@ Implemented a deep learning model to apply artistic styles to images.
 Used CNNs and pre-trained VGG-19 for style transformation.
 
 *OUTPUT*
-
+![Image](https://github.com/user-attachments/assets/ddc05900-54da-449f-abb4-a92ac2602b87)
 ![Image](https://github.com/user-attachments/assets/82b9dfe4-a3b8-4d31-a0ca-562b1505b84e)
 ![Image](https://github.com/user-attachments/assets/30168233-3a11-4b26-8edb-c59ebee2b6a6)
